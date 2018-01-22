@@ -1,0 +1,22 @@
+{
+  "name": "char-sortinator",
+  "version": "1.0.0",
+  "description": "hrhb daily diagnostic",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twang1225/Char-Sortinator.git"
+  },
+  "author": "ting wang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/twang1225/Char-Sortinator/issues"
+  },
+  "homepage": "https://github.com/twang1225/Char-Sortinator#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
