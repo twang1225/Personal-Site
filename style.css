@@ -1,8 +1,20 @@
-h1 {
-  color: blue;
-  text-align: center;
-}
-
 body {
   background-image: url(Images/yosemite.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+header {
+  margin-left: 700px;
+  margin-top: 200px;
+  border: 3px solid white;
+  border-radius: 20%;
+  background-color: rgba(255, 255, 255, 0.3);
+  width: 400px;
+  height: 400px;
+
+}
+
+#name {
+  font-family: helvetica;
 }
